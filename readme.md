@@ -1,4 +1,4 @@
-# Group Recommendations
+# Group Recommendations for Financial Transactions
 
 A two-stage pipeline for recommending financial assets to groups of investors using only implicit feedback (purchase transactions — no ratings or explicit preferences).
 
