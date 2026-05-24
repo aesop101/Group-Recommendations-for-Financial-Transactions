@@ -1,0 +1,43 @@
+# Data — download instructions in data/far_trans/README.md
+data/far_trans/*.csv
+data/far_trans/*.xlsx
+data/far_trans/*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.pdf
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Model caches (sentence-transformers, torch hub)
+.cache/
+*.pt
+*.pth
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
